@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhicodeitout/Abhicodeitout/blob/main/banner.gif)
+<p align="center"> <img src="https://github.com/Abhicodeitout/Abhicodeitout/blob/main/banner.gif" width="1000">
 <h1 align="center">Hey 👋, I'm Abhishek Kumar Kushwaha</h1>
 <h3 align="center">A Softwere developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
