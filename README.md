@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Golang ,Docker, Kubernetes**
 
-- 📫 How to reach me **abhishek.kumar.kushwaha11998@gmail.com**
+- 📫 How to reach me **abhishekkushwaha11998@gmail.com**
 
 -  ⚡ Fun fact **I like to be a Developer**
 
